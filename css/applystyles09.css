@@ -1,0 +1,34 @@
+/* Style sheet created by: Jashanpreet Kaur/
+
+/* Style for body specifies a background color */
+body {
+	background-color: darkslategray;
+}
+
+/* main element styles */
+main {
+	margin-top: 0.5em;
+	padding: 1em;
+	border-radius: 2em 0 2em 0;
+	background-color: khaki;
+  }
+
+/* styles for the images inside figure element */
+figure {
+	text-align: center;
+	font-size: xx-large;
+  }
+  figcaption{
+	  font-weight: bold;
+  }
+
+/* Style for the footer element */
+/* footer element styles */
+footer {
+	font-size: 0.7em;
+	text-align: center;
+	margin-top: 2em;
+	background-color: darkslategray;
+  }
+
+
